@@ -1,5 +1,6 @@
 #product-container {
   display: flex;
+  display: grid;
   align-items: center;
   justify-content: center;
   gap: 10px;
@@ -24,4 +25,18 @@
  
 .cart-item button {
   margin-left: 10px;
+}
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body{
+  background-color: bisque;
+}
+h3{
+   display: flex;
+  align-items: center;
+  justify-content: center;
 }
